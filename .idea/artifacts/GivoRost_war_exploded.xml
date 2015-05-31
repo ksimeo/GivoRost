@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="GivoRost:war exploded">
+    <output-path>$PROJECT_DIR$/target/GivoRost Project in JSP</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="GivoRost" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="GivoRost/web/Web" />
+    </root>
+  </artifact>
+</component>
